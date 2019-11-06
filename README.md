@@ -1,6 +1,8 @@
 # mongo-sharding
 
 # Creación de un cluster de desarrollo:
+
+```
  __________
 |          |
 |  Router  |
@@ -19,7 +21,7 @@
 |replica SET)|
 |____________|
 
-
+```
 
 ## Creación de los servidores de configuración:
 
